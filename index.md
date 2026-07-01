@@ -38,3 +38,4 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Architecture Foundry — Couches]] — Data Sources (MMDP), Logic, Systems of Action, Analytics, OSDK. (créé 2026-07-01)
 - [[Sécurité et Gouvernance Foundry]] — purpose-based controls, data markings, audit trails, branching. (créé 2026-07-01)
 - [[Apollo Palantir]] — déploiement cloud/on-prem/edge/air-gapped. (créé 2026-07-01)
+- [[Primitives Ontologie Palantir]] — Object Type, Property, Link Type, Action Type, Function, Interface — briques de l'Ontologie. (créé 2026-07-01)
