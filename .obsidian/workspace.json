@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "798b3dededc2033c",
+        "id": "2e76218c0b8512c2",
         "type": "tabs",
         "children": [
           {
-            "id": "005670646bbbe227",
+            "id": "07660f620681f077",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -190,8 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "005670646bbbe227",
+  "active": "07660f620681f077",
   "lastOpenFiles": [
+    "index.md",
+    "CLAUDE.md",
+    "sources/Common Foundation for Human + AI Collaboration.md",
+    "wiki/Sécurité et Gouvernance Foundry.md",
+    "wiki/Palantir Foundry & AIP — Vue d'ensemble.md",
+    "wiki/Ontologie Palantir.md",
+    "wiki/Architecture Foundry — Couches.md",
+    "wiki/Apollo Palantir.md",
+    "wiki/AI Labor et Progressive Automation.md",
+    "Untitled.base",
     "sources/Apollo - Software Delivery Layer.md",
     "sources/Unconfirmed 77561.crdownload",
     "sources/Branching_ Safe Change Management for Human and AI Builders.md",
@@ -202,7 +217,6 @@
     "sources/Unconfirmed 648368.crdownload",
     "sources/The Role of Evals in Progressive Automation.md",
     "sources/Unconfirmed 821965.crdownload",
-    "sources/Common Foundation for Human + AI Collaboration.md",
     "sources/Unconfirmed 370805.crdownload",
     "sources/3.3 Products & SDKs.md",
     "sources/Unconfirmed 445868.crdownload",
@@ -211,7 +225,6 @@
     "sources/3.1 Analytics & Workflows.md",
     "sources/Unconfirmed 389086.crdownload",
     "sources/2.3 Systems of Action.md",
-    "sources/Unconfirmed 826383.crdownload",
     "sources/2.2 Logic Sources.md",
     "sources/2.1 Data Sources.md",
     "sources/The Three Pillars of Decision-Centric Systems for Enterprise Automation.md",
@@ -219,14 +232,6 @@
     "sources/What is the Ontology_.md",
     "sources/High-Level Architecture of the Platform.md",
     "sources/AI Labor_ A New Category.md",
-    "sources/The Evolution from Linear to Decision-Centric Systems.md",
-    "sources/The Enterprise Autonomy Vision.md",
-    "sources/Course Overview.md",
-    "sources/Certificate for Introduction to Foundry & AIP for Enterprise Organizations.md",
-    "index.md",
-    "wiki/IA.md",
-    "wiki/Tool Pattern.md",
-    "wiki/Reflection Pattern.md",
-    "wiki/ReAct.md"
+    "sources/The Evolution from Linear to Decision-Centric Systems.md"
   ]
 }
