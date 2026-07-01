@@ -17,9 +17,19 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 
 ## Summaries
 
+- [[Palantir Foundry & AIP — Vue d'ensemble]] — architecture globale, vision enterprise autonomy, AI Infrastructure. (créé 2026-07-01)
+
 ## Overviews
 
 - [[Data Engineering]] — pipelines, orchestration, qualité de données, outils. (créé 2026-06-30)
 - [[Cloud (AWS & GCP)]] — services managés, architecture, IAM, comparatif AWS/GCP. (créé 2026-06-30)
 - [[Palantir]] — Foundry, ontologie, pipelines, cas d'usage. (créé 2026-06-30)
 - [[IA]] — LLMs, agents, patterns agentiques (Reflection, Tool, ReAct, Multiagent). (créé 2026-07-01)
+
+## Palantir — Concepts détaillés
+
+- [[Ontologie Palantir]] — couche sémantique centrale : Data + Logic + Action, monde partagé humains + IA. (créé 2026-07-01)
+- [[AI Labor et Progressive Automation]] — 3ème catégorie d'effort, phases d'autonomie, AIP Evals. (créé 2026-07-01)
+- [[Architecture Foundry — Couches]] — Data Sources (MMDP), Logic, Systems of Action, Analytics, OSDK. (créé 2026-07-01)
+- [[Sécurité et Gouvernance Foundry]] — purpose-based controls, data markings, audit trails, branching. (créé 2026-07-01)
+- [[Apollo Palantir]] — déploiement cloud/on-prem/edge/air-gapped. (créé 2026-07-01)
