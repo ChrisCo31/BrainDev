@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Apollo Palantir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Apollo Palantir"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "wiki/Apollo Palantir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Apollo Palantir"
             }
           },
           {
@@ -191,14 +191,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "07660f620681f077",
   "lastOpenFiles": [
-    "log.md",
     "index.md",
+    "wiki/Code — DQ pandas.md",
+    "wiki/Code — DQ PySpark.md",
+    "log.md",
     "CLAUDE.md",
     "sources/Common Foundation for Human + AI Collaboration.md",
     "wiki/Sécurité et Gouvernance Foundry.md",
@@ -230,8 +231,6 @@
     "sources/2.1 Data Sources.md",
     "sources/The Three Pillars of Decision-Centric Systems for Enterprise Automation.md",
     "sources/The Ontology as the Shared World for Human + AI Teams.md",
-    "sources/What is the Ontology_.md",
-    "sources/High-Level Architecture of the Platform.md",
-    "sources/AI Labor_ A New Category.md"
+    "sources/What is the Ontology_.md"
   ]
 }
