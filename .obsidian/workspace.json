@@ -11,10 +11,14 @@
             "id": "005670646bbbe227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -152,23 +156,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "cd9403df8f5784e0",
+            "id": "aa449f2ea8504904",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
+              "type": "git-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -187,11 +191,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd9403df8f5784e0",
+  "active": "a96343b0d72a3dfb",
   "lastOpenFiles": [
+    "sources/What is an Agent_.md",
+    "sources/Unconfirmed 871489.crdownload",
+    "wiki/Palantir.md",
+    "wiki/Data Engineering.md",
+    "wiki/Cloud (AWS & GCP).md",
+    "CLAUDE.md",
     "Untitled.base",
     "Welcome.md"
   ]
