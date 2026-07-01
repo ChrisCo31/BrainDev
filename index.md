@@ -6,6 +6,11 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 
 ## Concepts
 
+- [[Agent IA]] — LLM + planification + mémoire + outils = agent. (créé 2026-07-01)
+- [[Planification (agents IA)]] — CoT, CoT-SC, Tree of Thoughts, ReAct. (créé 2026-07-01)
+- [[Mémoire (agents IA)]] — court terme (contexte) vs long terme (bases vectorielles : Qdrant, Weaviate, Pinecone). (créé 2026-07-01)
+- [[Outils (agents IA)]] — APIs, bases de données, recherche web — ce qui rend un agent actif. (créé 2026-07-01)
+
 ## Summaries
 
 ## Overviews
