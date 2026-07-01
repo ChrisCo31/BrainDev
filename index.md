@@ -26,6 +26,11 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Palantir]] — Foundry, ontologie, pipelines, cas d'usage. (créé 2026-06-30)
 - [[IA]] — LLMs, agents, patterns agentiques (Reflection, Tool, ReAct, Multiagent). (créé 2026-07-01)
 
+## Code
+
+- [[Code — DQ pandas]] — scripts qualité de données pandas : profilage, nulls, complétude, unicité, conformité, cohérence, fraîcheur, dashboard. (créé 2026-07-01)
+- [[Code — DQ PySpark]] — scripts qualité de données PySpark natif Foundry : logic/ + transforms/, profilage, nulls, sentinelles, doublons. (créé 2026-07-01)
+
 ## Palantir — Concepts détaillés
 
 - [[Ontologie Palantir]] — couche sémantique centrale : Data + Logic + Action, monde partagé humains + IA. (créé 2026-07-01)
