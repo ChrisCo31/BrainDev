@@ -190,8 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "005670646bbbe227",
+  "active": "aa449f2ea8504904",
   "lastOpenFiles": [
+    "wiki/Tool Pattern.md",
+    "wiki/Reflection Pattern.md",
+    "wiki/ReAct.md",
+    "wiki/Multiagent Pattern.md",
     "Untitled.base",
     "index.md",
     "wiki/Planification (agents IA).md",
