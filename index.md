@@ -14,6 +14,7 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Tool Pattern]] — function calling via signatures XML dans le system prompt, décorateur @tool. (créé 2026-07-01)
 - [[ReAct]] — Reason+Act : boucle Thought/Action/Observation pour planification multi-étapes. (créé 2026-07-01)
 - [[Multiagent Pattern]] — agents spécialisés orchestrés en DAG, inspiré CrewAI + Airflow. (créé 2026-07-01)
+- [[Ontologie de données]] — modèle métier formel générique : concepts, propriétés, relations, RDF/OWL, gouvernance. (créé 2026-07-08)
 
 ## Summaries
 

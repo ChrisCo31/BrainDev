@@ -2,7 +2,7 @@
 type: overview
 tags: [data-engineering]
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-08
 sources: []
 ---
 
@@ -12,4 +12,5 @@ Page de synthèse pour tout ce qui concerne le data engineering : pipelines, orc
 
 ## Pages liées
 
-(à compléter au fil des ingests)
+- [[Ontologie de données]] — modèle métier formel (concepts, propriétés, relations) au-dessus des données brutes.
+- [[Code — DQ pandas]] / [[Code — DQ PySpark]] — scripts de qualité de données.
