@@ -44,3 +44,7 @@ Sans Ontologie, un LLM frontier n'a pas le contexte de ton business. L'Ontologie
 ## Rapport avec le concept générique
 
 Voir [[Ontologie de données]] pour le concept indépendant de tout vendeur (RDF/OWL, triple stores, gouvernance) — l'Ontologie Palantir en est une implémentation produit concrète.
+
+## Rapport avec le DAG / lineage
+
+Le pilier **Data** de l'Ontologie s'appuie sur un graphe de dépendances entre datasets et pipelines — voir [[DAG (dépendances datasets & pipelines)]].

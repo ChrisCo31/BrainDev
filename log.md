@@ -15,3 +15,5 @@
 ## [2026-07-01] ingest | Cours Palantir "Introduction to Foundry & AIP for Enterprise Organizations" (22 sources) → 5 pages wiki : Vue d'ensemble, Ontologie, AI Labor & Progressive Automation, Architecture couches, Sécurité & Gouvernance, Apollo
 
 ## [2026-07-08] ingest | Note utilisateur "Ontologie de données" (aussi versée dans ChrisCo31/Data_scripts docs/Ontologie_donnees.md) → 1 page wiki : Ontologie de données, liée à Ontologie Palantir et Data Engineering
+
+## [2026-07-08] ingest | Note utilisateur "DAGs — dépendances datasets et pipelines" (+ exemple Data Product Qualité fournisseurs Airbus) → 1 page wiki : DAG (dépendances datasets & pipelines), liée à Ontologie Palantir, Architecture Foundry — Couches, Data Engineering, Code — DQ pandas/PySpark

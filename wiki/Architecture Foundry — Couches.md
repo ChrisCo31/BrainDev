@@ -2,7 +2,7 @@
 type: concept
 tags: [palantir, foundry, architecture, data-sources, MMDP, OSDK]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-08
 sources:
   - "[[2.1 Data Sources]]"
   - "[[2.2 Logic Sources]]"
@@ -48,3 +48,7 @@ Voir [[AI Labor et Progressive Automation]]
 - Accès programmatique en React, Python, Java, OpenAPI depuis n'importe quel environnement externe
 - L'Ontologie devient le "SDK de ton business" — tes outils existants ne sont pas remplacés, ils sont enrichis
 - Webhooks, streaming/batch connectors, external transforms
+
+## Liens
+
+- [[DAG (dépendances datasets & pipelines)]] — le graphe de dépendances entre datasets qui relie 2.1/2.2 (sources) aux couches construites au-dessus
