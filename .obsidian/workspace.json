@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/AI Labor et Progressive Automation.md",
+                "file": "wiki/Ontologie de données.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Labor et Progressive Automation"
+              "title": "Ontologie de données"
             }
           }
         ]
@@ -194,11 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07660f620681f077",
+  "active": "aa449f2ea8504904",
   "lastOpenFiles": [
+    "wiki/DAG (dépendances datasets & pipelines).md",
+    "sources/DAGs — dépendances datasets et pipelines (note utilisateur).md",
+    "wiki/Ontologie Palantir.md",
+    "wiki/Ontologie de données.md",
+    "wiki/AI Labor et Progressive Automation.md",
+    "sources/Ontologie de données (note utilisateur).md",
     "wiki/Palantir.md",
     "wiki/Outils (agents IA).md",
-    "wiki/Ontologie Palantir.md",
     "Untitled.base",
     "log.md",
     "index.md",
@@ -211,7 +216,6 @@
     "wiki/Sécurité et Gouvernance Foundry.md",
     "wiki/Palantir Foundry & AIP — Vue d'ensemble.md",
     "wiki/Architecture Foundry — Couches.md",
-    "wiki/AI Labor et Progressive Automation.md",
     "sources/Apollo - Software Delivery Layer.md",
     "sources/Unconfirmed 77561.crdownload",
     "sources/Branching_ Safe Change Management for Human and AI Builders.md",
@@ -227,10 +231,6 @@
     "sources/Unconfirmed 445868.crdownload",
     "sources/3.2 Automations & Progressive Automation.md",
     "sources/Unconfirmed 302167.crdownload",
-    "sources/3.1 Analytics & Workflows.md",
-    "sources/Unconfirmed 389086.crdownload",
-    "sources/2.3 Systems of Action.md",
-    "sources/2.2 Logic Sources.md",
-    "sources/2.1 Data Sources.md"
+    "sources/Unconfirmed 389086.crdownload"
   ]
 }
