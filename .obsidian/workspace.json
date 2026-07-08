@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Apollo Palantir.md",
+                "file": "wiki/AI Labor et Progressive Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apollo Palantir"
+              "title": "AI Labor et Progressive Automation"
             }
           }
         ]
@@ -196,19 +196,22 @@
   },
   "active": "07660f620681f077",
   "lastOpenFiles": [
+    "wiki/Palantir.md",
+    "wiki/Outils (agents IA).md",
+    "wiki/Ontologie Palantir.md",
+    "Untitled.base",
+    "log.md",
     "index.md",
+    "wiki/Apollo Palantir.md",
+    "wiki/Primitives Ontologie Palantir.md",
     "wiki/Code — DQ pandas.md",
     "wiki/Code — DQ PySpark.md",
-    "log.md",
     "CLAUDE.md",
     "sources/Common Foundation for Human + AI Collaboration.md",
     "wiki/Sécurité et Gouvernance Foundry.md",
     "wiki/Palantir Foundry & AIP — Vue d'ensemble.md",
-    "wiki/Ontologie Palantir.md",
     "wiki/Architecture Foundry — Couches.md",
-    "wiki/Apollo Palantir.md",
     "wiki/AI Labor et Progressive Automation.md",
-    "Untitled.base",
     "sources/Apollo - Software Delivery Layer.md",
     "sources/Unconfirmed 77561.crdownload",
     "sources/Branching_ Safe Change Management for Human and AI Builders.md",
@@ -228,9 +231,6 @@
     "sources/Unconfirmed 389086.crdownload",
     "sources/2.3 Systems of Action.md",
     "sources/2.2 Logic Sources.md",
-    "sources/2.1 Data Sources.md",
-    "sources/The Three Pillars of Decision-Centric Systems for Enterprise Automation.md",
-    "sources/The Ontology as the Shared World for Human + AI Teams.md",
-    "sources/What is the Ontology_.md"
+    "sources/2.1 Data Sources.md"
   ]
 }
