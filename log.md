@@ -13,3 +13,5 @@
 ## [2026-07-01] ingest | Data_scripts (ChrisCo31/Data_scripts) → 2 fiches code : Code — DQ pandas, Code — DQ PySpark
 
 ## [2026-07-01] ingest | Cours Palantir "Introduction to Foundry & AIP for Enterprise Organizations" (22 sources) → 5 pages wiki : Vue d'ensemble, Ontologie, AI Labor & Progressive Automation, Architecture couches, Sécurité & Gouvernance, Apollo
+
+## [2026-07-08] ingest | Note utilisateur "Ontologie de données" (aussi versée dans ChrisCo31/Data_scripts docs/Ontologie_donnees.md) → 1 page wiki : Ontologie de données, liée à Ontologie Palantir et Data Engineering

@@ -2,7 +2,7 @@
 type: concept
 tags: [palantir, ontologie, foundry, AIP, données]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-08
 sources:
   - "[[What is the Ontology_]]"
   - "[[The Three Pillars of Decision-Centric Systems for Enterprise Automation]]"
@@ -40,3 +40,7 @@ C'est une **couche sémantique** qui traduit des données multi-systèmes brutes
 ## Lien avec les agents IA
 
 Sans Ontologie, un LLM frontier n'a pas le contexte de ton business. L'Ontologie est ce qui transforme un modèle générique en agent capable d'opérer dans ton environnement spécifique. Voir [[AI Labor et Progressive Automation]].
+
+## Rapport avec le concept générique
+
+Voir [[Ontologie de données]] pour le concept indépendant de tout vendeur (RDF/OWL, triple stores, gouvernance) — l'Ontologie Palantir en est une implémentation produit concrète.
