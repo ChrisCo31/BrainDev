@@ -13,4 +13,5 @@ Page de synthèse pour tout ce qui concerne le data engineering : pipelines, orc
 ## Pages liées
 
 - [[Ontologie de données]] — modèle métier formel (concepts, propriétés, relations) au-dessus des données brutes.
+- [[DAG (dépendances datasets & pipelines)]] — orchestration et lineage entre datasets et pipelines.
 - [[Code — DQ pandas]] / [[Code — DQ PySpark]] — scripts de qualité de données.

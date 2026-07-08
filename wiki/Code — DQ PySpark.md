@@ -2,7 +2,7 @@
 type: code
 tags: [code, pyspark, data-quality, foundry, transforms]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-08
 sources:
   - "repo: ChrisCo31/Data_scripts — pyspark_data_quality/"
 ---
@@ -60,3 +60,4 @@ Chaque transform définit un `StructType` explicite pour garantir le typage en s
 - [[Code — DQ pandas]] — version pandas / toPandas() pour les mêmes contrôles
 - [[Architecture Foundry — Couches]] — contexte transforms Foundry (@transform, Input, Output)
 - [[Data Engineering]] — contexte qualité de données
+- [[DAG (dépendances datasets & pipelines)]] — chaque `@transform` est un nœud du DAG, avec ses `Input`/`Output` comme dépendances
