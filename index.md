@@ -16,6 +16,7 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Multiagent Pattern]] — agents spécialisés orchestrés en DAG, inspiré CrewAI + Airflow. (créé 2026-07-01)
 - [[Ontologie de données]] — modèle métier formel générique : concepts, propriétés, relations, RDF/OWL, gouvernance. (créé 2026-07-08)
 - [[DAG (dépendances datasets & pipelines)]] — graphe de dépendances datasets/pipelines, lineage, analyse d'impact, exemple Data Product Airbus. (créé 2026-07-08)
+- [[Pandas vs PySpark — performance Foundry]] — pourquoi `toPandas()` sur un gros dataset risque un `Serialized results too large`, agréger en Spark natif. (créé 2026-07-09)
 
 ## Summaries
 
