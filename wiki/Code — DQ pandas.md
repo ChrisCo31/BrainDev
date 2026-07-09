@@ -2,7 +2,7 @@
 type: code
 tags: [code, pandas, data-quality, foundry]
 created: 2026-07-01
-updated: 2026-07-08
+updated: 2026-07-09
 sources:
   - "repo: ChrisCo31/Data_scripts — pandas_data_quality/"
 ---
@@ -12,6 +12,9 @@ sources:
 Fonctions de contrôle qualité en pandas, compatibles `toPandas()` (Foundry). Organisées par type de contrôle.
 
 > Toutes les fonctions SAP acceptent indifféremment un DataFrame pandas ou un Spark DataFrame (détection via `hasattr(df, 'toPandas')`).
+
+> [!warning] Attention sur les gros volumes
+> `toPandas()` rapatrie tout le dataset sur le driver Spark — risque de `Serialized results too large` sur une table volumineuse. Voir [[Pandas vs PySpark — performance Foundry]]. Sur un gros dataset, préférer [[Code — DQ PySpark]] (agrégations natives, sans `toPandas()`).
 
 ## Profilage structurel
 
@@ -86,3 +89,4 @@ Fonctions de contrôle qualité en pandas, compatibles `toPandas()` (Foundry). O
 - [[Code — DQ PySpark]] — version native PySpark pour Foundry (sans toPandas)
 - [[Data Engineering]] — contexte qualité de données
 - [[DAG (dépendances datasets & pipelines)]] — ces contrôles correspondent au nœud "DQ Checks" d'un DAG orchestré
+- [[Pandas vs PySpark — performance Foundry]] — pourquoi `toPandas()` est risqué sur un gros volume
