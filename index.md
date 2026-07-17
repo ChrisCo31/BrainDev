@@ -17,7 +17,6 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Ontologie de données]] — modèle métier formel générique : concepts, propriétés, relations, RDF/OWL, gouvernance. (créé 2026-07-08)
 - [[DAG (dépendances datasets & pipelines)]] — graphe de dépendances datasets/pipelines, lineage, analyse d'impact, exemple Data Product Airbus. (créé 2026-07-08)
 - [[Pandas vs PySpark — performance Foundry]] — pourquoi `toPandas()` sur un gros dataset risque un `Serialized results too large`, agréger en Spark natif. (créé 2026-07-09)
-- [[Hiérarchie des ressources GCP]] — organization → folders → projects, héritage des policies IAM top-down. (créé 2026-07-17)
 
 ## Summaries
 
@@ -43,3 +42,7 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Sécurité et Gouvernance Foundry]] — purpose-based controls, data markings, audit trails, branching. (créé 2026-07-01)
 - [[Apollo Palantir]] — déploiement cloud/on-prem/edge/air-gapped. (créé 2026-07-01)
 - [[Primitives Ontologie Palantir]] — Object Type, Property, Link Type, Action Type, Function, Interface — briques de l'Ontologie. (créé 2026-07-01)
+
+## GCP — Concepts détaillés
+
+- [[Hiérarchie des ressources GCP]] — organization → folders → projects, héritage des policies IAM top-down. (créé 2026-07-17)
