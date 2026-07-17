@@ -17,6 +17,7 @@ Catalogue des pages du wiki. Mis à jour à chaque ingest.
 - [[Ontologie de données]] — modèle métier formel générique : concepts, propriétés, relations, RDF/OWL, gouvernance. (créé 2026-07-08)
 - [[DAG (dépendances datasets & pipelines)]] — graphe de dépendances datasets/pipelines, lineage, analyse d'impact, exemple Data Product Airbus. (créé 2026-07-08)
 - [[Pandas vs PySpark — performance Foundry]] — pourquoi `toPandas()` sur un gros dataset risque un `Serialized results too large`, agréger en Spark natif. (créé 2026-07-09)
+- [[Hiérarchie des ressources GCP]] — organization → folders → projects, héritage des policies IAM top-down. (créé 2026-07-17)
 
 ## Summaries
 

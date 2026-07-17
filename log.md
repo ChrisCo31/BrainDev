@@ -19,3 +19,5 @@
 ## [2026-07-08] ingest | Note utilisateur "DAGs — dépendances datasets et pipelines" (+ exemple Data Product Qualité fournisseurs Airbus) → 1 page wiki : DAG (dépendances datasets & pipelines), liée à Ontologie Palantir, Architecture Foundry — Couches, Data Engineering, Code — DQ pandas/PySpark
 
 ## [2026-07-09] ingest | Note utilisateur "Pandas vs PySpark — le piège du toPandas()" → 1 page wiki : Pandas vs PySpark — performance Foundry, liée à Code — DQ pandas, Code — DQ PySpark, Data Engineering. ⚠️ Contradiction signalée : les scripts `sap/*.py` de Code — DQ pandas utilisent systématiquement `toPandas()`, le pattern que cette note identifie comme risqué sur un gros volume — averti dans les deux pages.
+
+## [2026-07-17] ingest | Doc officielle Google Cloud "Cloud Platform Resource Hierarchy" (contenu collé par l'utilisateur, accès direct docs.cloud.google.com bloqué par la politique réseau de la session) → 1 page wiki : Hiérarchie des ressources GCP, liée à Cloud (AWS & GCP) et Sécurité et Gouvernance Foundry
