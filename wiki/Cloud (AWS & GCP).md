@@ -2,7 +2,7 @@
 type: overview
 tags: [cloud, aws, gcp]
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-17
 sources: []
 ---
 
@@ -12,4 +12,4 @@ Page de synthèse pour les sujets cloud, centrée sur AWS et GCP : services mana
 
 ## Pages liées
 
-(à compléter au fil des ingests)
+- [[Hiérarchie des ressources GCP]] — organization → folders → projects, héritage IAM/organization policies.
